@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Main Real State Bot",
+  "Type": "Screen",
+  "Id": "okvvjZw4HEGmXQ0Uh6FAbQ",
+  "Reference": "vDxf2xShJE2vEXxrw56khQ/okvvjZw4HEGmXQ0Uh6FAbQ",
+  "ParentRef": "vDxf2xShJE2vEXxrw56khQ/0O1HiV6MXkq7llz1Zy-QBA",
+  "Created": "2026-11-21T21:48:05.6883498Z",
+  "Updated": "2026-11-21T21:48:05.6883498Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

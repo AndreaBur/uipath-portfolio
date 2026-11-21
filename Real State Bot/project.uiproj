@@ -1,0 +1,6 @@
+{
+  "Name": "Real State Bot",
+  "ProjectType": "Process",
+  "Description": "Real State Bot",
+  "MainFile": "Main.xaml"
+}

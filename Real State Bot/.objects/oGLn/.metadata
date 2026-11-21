@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Main Real State Bot",
+  "Type": "App",
+  "Id": "oGLn5L0I_0W6kmbTDGAS3g",
+  "Reference": "vDxf2xShJE2vEXxrw56khQ/oGLn5L0I_0W6kmbTDGAS3g",
+  "Created": "2026-11-21T21:48:04.9673284Z",
+  "Updated": "2026-11-21T21:48:04.9673284Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
