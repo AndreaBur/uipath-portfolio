@@ -1,4 +1,4 @@
-\# Real Estate Bot - Búsqueda de apartamentos en arriendo
+# Real Estate Bot - Búsqueda de apartamentos en arriendo
 
 
 
@@ -6,47 +6,47 @@ Bot RPA desarrollado en UiPath Studio que automatiza la búsqueda de apartamento
 
 
 
-\## Qué hace
+## Qué hace
 
-\- Abre el portal de búsqueda de vivienda
+- Abre el portal de búsqueda de vivienda
 
-\- Aplica los filtros: arriendo, Chapinero (Bogotá), 1 habitación y 1 baño
+- Aplica los filtros: arriendo, Chapinero (Bogotá), 1 habitación y 1 baño
 
-\- Ordena los resultados de menor a mayor precio
+- Ordena los resultados de menor a mayor precio
 
-\- Extrae los datos de cada aviso (precio, ubicación, área, etc.)
-
-
-
-\## Tecnologías
-
-\- UiPath Studio
-
-\- Web Scraping / Data Scraping
+- Extrae los datos de cada aviso (precio, ubicación, área, etc.)
 
 
 
-\## Cómo ejecutarlo
+## Tecnologías
 
-1\. Clona este repositorio
+- UiPath Studio
 
-2\. Abre `project.json` en UiPath Studio
-
-3\. Ejecuta `Main.xaml`
+- Web Scraping / Data Scraping
 
 
 
-\## Aprendizajes
+## Cómo ejecutarlo
 
-\- Automatización de navegador web
+1. Clona este repositorio
 
-\- Extracción de datos estructurados
+2. Abre `project.json` en UiPath Studio
 
-\- Uso de filtros y ordenamiento en portales web
+3. Ejecuta `Main.xaml`
 
 
 
-\## Autora
+## Aprendizajes
+
+- Automatización de navegador web
+
+- Extracción de datos estructurados
+
+- Uso de filtros y ordenamiento en portales web
+
+
+
+## Autora
 
 Andrea Bur
 
