@@ -6,7 +6,7 @@ Bot RPA desarrollado en UiPath Studio que automatiza la búsqueda de apartamento
 - Abre el portal inmobiliario Ciencuadras en Chrome
 - Aplica los filtros: arriendo, 1 habitación y 1 baño
 - Ordena los resultados de menor a mayor precio
-- Recorre los 20 avisos de la primera página
+- Recorre los 20 avisos de la cada página
 - Extrae el precio y el área (m²) de cada aviso usando expresiones regulares (Regex)
 - Guarda los datos en una DataTable y los exporta a `Resultados.csv`
 
