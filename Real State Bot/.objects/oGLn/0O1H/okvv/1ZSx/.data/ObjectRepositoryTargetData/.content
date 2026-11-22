@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EFqITf0o8E-_yEudqELefg" Reference="vDxf2xShJE2vEXxrw56khQ/1ZSxzDv5NkmcEO1TOJeB5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.ciencuadras.com/arriendo/bogota/teusaquillo/apartamento/1hab-1ban/hasta-6000000?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=arriendormkt&amp;utm_content=search&amp;gad_source=1&amp;gad_campaignid=13163942603&amp;gbraid=0AAAAADAn3OOU0s-9b8pSnr4WeDghDHIof&amp;gclid=CjwKCAiAn4XYBhA-EiwA8176FUVNUmGKwKq1jw2zxxAMYMr5C996qTSS75m6oGCXT6hVXcZDsm0O8RoCzOcQAvD_BwE" DesignTimeRectangle="502, 392, 841, 3823" ElementType="Container" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;ciencuadras-root&amp;gt;ciencuadras-shell-app&amp;gt;main&amp;gt;div&amp;gt;ciencuadras-result-entry&amp;gt;main&amp;gt;ciencuadras-container-load&amp;gt;ciencuadras-container-middle&amp;gt;section&amp;gt;section&amp;gt;section&amp;gt;section&amp;gt;ciencuadras-list-cards&amp;gt;div' parentid='pdfContainer' tag='DIV' /&gt;" Guid="a1c376de-75da-4e1b-a693-3743d04b6b64" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Apartamentos en Arriendo con 1 Habitación 1 Baño en Teusaquillo, Bogotá Vivienda Nueva y Usada Hasta $ 6.000.000,00' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f0d27409ed443d259c0aa0136ee085e6.jpg" xmlns="">01QVprPchcE-L6IxM9PWdxw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractDataGeneric</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='GeneralInfo'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

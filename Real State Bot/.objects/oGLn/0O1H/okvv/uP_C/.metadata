@@ -1,0 +1,14 @@
+﻿{
+  "Name": "checked",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "uP_Cjv833kOmsLyCwlmJtw",
+  "Reference": "vDxf2xShJE2vEXxrw56khQ/uP_Cjv833kOmsLyCwlmJtw",
+  "ParentRef": "vDxf2xShJE2vEXxrw56khQ/okvvjZw4HEGmXQ0Uh6FAbQ",
+  "Created": "2026-11-21T23:55:50.9798935Z",
+  "Updated": "2026-11-21T23:55:50.9798935Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

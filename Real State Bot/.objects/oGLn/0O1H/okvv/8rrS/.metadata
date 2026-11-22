@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Arriendo",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "8rrSssM9NEq3dv4_4HS3tg",
+  "Reference": "vDxf2xShJE2vEXxrw56khQ/8rrSssM9NEq3dv4_4HS3tg",
+  "ParentRef": "vDxf2xShJE2vEXxrw56khQ/okvvjZw4HEGmXQ0Uh6FAbQ",
+  "Created": "2026-11-21T23:50:56.7787042Z",
+  "Updated": "2026-11-21T23:50:56.7787042Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

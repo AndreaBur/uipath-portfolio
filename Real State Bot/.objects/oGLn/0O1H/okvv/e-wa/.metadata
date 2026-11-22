@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Aplicar filtros",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "e-waJJHniEaarfqhviJ5VQ",
+  "Reference": "vDxf2xShJE2vEXxrw56khQ/e-waJJHniEaarfqhviJ5VQ",
+  "ParentRef": "vDxf2xShJE2vEXxrw56khQ/okvvjZw4HEGmXQ0Uh6FAbQ",
+  "Created": "2026-11-22T00:34:01.4591842Z",
+  "Updated": "2026-11-22T00:34:01.4591842Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iZCJW6W-60yEoCio3nwGpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ciencuadras.com/arriendo/bogota/teusaquillo/apartamento/1hab-1ban/hasta-6000000" DesignTimeRectangle="502, 443, 509, 360" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='CIENCUADRAS-CARD' /&gt;" Guid="71045f9b-ee3b-4568-b71e-1795640f2207" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Apartamentos en Arriendo con 1 Habitación 1 Baño en Teusaquillo, Bogotá Vivienda Nueva y Usada Hasta $ 6.000.000,00' /&gt;" SearchSteps="Selector, SemanticSelector" SemanticSelectorArgument="Button to view the details of the featured apartment for rent in Chapinero Sur Occidental, Teusaquillo, Bogota, with 1 bedroom, 1 bathroom, and a price of $1,500,000." SemanticSelectorFindMethod="Dom" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c551365305ac6b51a711f953c1b1e789.jpg" xmlns="">0JsPUhOvJO0acEeEEkxgH_A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
