@@ -4,6 +4,8 @@
 
 Dashboard interactivo en Python que analiza los datos de arriendos extraídos por el bot de UiPath (`Real State Bot`).
 
+## Vista previa
+![Dashboard](dashboard.png)
 
 
 \## Qué muestra
